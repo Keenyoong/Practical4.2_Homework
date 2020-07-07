@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical4.2_Homework</string>
+    <string name="chocolate_syrup">Chocolate Syrup</string>
+    <string name="show_message">SHOW MESSAGE</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed Nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookie_crumbles">Orio cookie crumbles</string>
+</resources>
